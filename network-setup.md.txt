@@ -1,0 +1,13 @@
+Devices in network
+PC-PT PC0 168.90.0.0
+PC-PT PC1 168.90.0.0
+Laptop-PT Laptop0 168.90.0.0
+Server-PT Server0 168.90.0.0
+2960-24TT Switch0
+
+1941 Router1
+
+PC-PT PC2 210.3.14.0
+Server-PT Server1 210.3.14.0
+Server-PT Server2 210.3.14.0
+2960-24TT Switch1 
